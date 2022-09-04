@@ -13,7 +13,7 @@ O newman é utilizado como um report de execução, onde apresenta:
 
 
 ### Minha dashboard de testes 
-![NPM](https://cdn.discordapp.com/attachments/969607335901298801/1015828449899855982/newmann.png))
+![NPM](https://cdn.discordapp.com/attachments/969607335901298801/1016012861509750824/NovoReport.png)
 
 
  ## COMO UTILIZAR O NEWMAN ?
