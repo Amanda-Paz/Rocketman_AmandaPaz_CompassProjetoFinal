@@ -51,20 +51,20 @@ npm serverest@latest
 
 Para clonar o meu repositório utilizaremos o [GIT](https://git-scm.com/).
 
-Primeiramente vamo colar o meu repositório:
+Primeiramente vamos clonar o meu repositório:
 
 <i> Ali no canto superior da direita você irá encontrar um botão verde, clique nele e clique em copiar o link.</i> 
 
 ![NPM](https://cdn.discordapp.com/attachments/969607335901298801/1016020311885500436/exp1.png)
 
-Após isso iremos executar o seguinte comando no <b>GIT</b>.
+Depois iremos executar o seguinte comando no <b>GIT</b>.
 
 
 ```bash
 git gh repo clone Amanda-Paz/Rocketman_AmandaPaz_CompassProjetoFinal
 ```
 
-Pronto, você já esta com tudo em mão para começar os testes!
+Pronto, você já esta com tudo em mãos para começar os testes!
 
 ![NPM](https://media.discordapp.net/attachments/969607335901298801/1012826812864286837/linha.png?width=1440&height=156)
 
