@@ -6,7 +6,7 @@
 Olá pessoas!
 
 Aqui se encontra a minha collection da <i>Severest</i>!
-Onde eu apliquei todo meu conhecimento adquirido na tilha de Programa de bolsas da COMPASS.UOL.
+Onde eu apliquei todo meu conhecimento adquirido na trilha de Programa de bolsas da COMPASS.UOL.
 
 Caso sinta vontade de se aventurar a <i>Serverest</i> permite : 
 
@@ -28,7 +28,7 @@ Você pode trabalhar com ela online ou localmente.
 
 ### Online 
 
-Accese [Serverest](https://serverest.dev/) para visualizar a documentação e rotas disponíveis. 
+Acesse [Serverest](https://serverest.dev/) para visualizar a documentação e rotas disponíveis. 
 
 O ServeRest online possui monitoramento constante do status e tempo de atividade para garantir que esteja sempre disponível.
 
