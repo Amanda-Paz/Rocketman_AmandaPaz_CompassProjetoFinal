@@ -59,6 +59,8 @@ Amanda Cristina Paz
 
 :)
 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Amanda-Paz/Rocketman_Amanda_Paz_Compass/blob/main/LICENSE) 
 <img align="right" alt="Compass-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/969607335901298801/1001567674767257711/Sem_Titulo-2.png">
 </div>
 
