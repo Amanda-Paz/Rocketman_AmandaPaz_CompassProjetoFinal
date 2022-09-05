@@ -18,7 +18,8 @@ O ServeRest é uma API REST simples para permitir estudo de testes de API.
 
 ![NPM](https://cdn.discordapp.com/attachments/969607335901298801/1016030544213065851/OBJETIVOS.png)
 
-Devo juntar todo conhecimento adquirido nessa aventura espacial e apresentar um plano de testes completo, relatório de execução e reportar algumas melhorias e bugs. 
+Devo juntar todo conhecimento adquirido nessa aventura espacial e apresentar um plano de testes completo, elaborar testes automatizados, um relatório de execução e reportar algumas melhorias e bugs. 
+Segue abaixo os conteudos efetuados juntando todo o conhecimento da trilha <i>rocketman</i>:
 
 
  - [Plano de Testes](https://www.canva.com/design/DAFG4qIQMHA/getYBOqNFs1u0kL6zsAYVQ/view?utm_content=DAFG4qIQMHA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
