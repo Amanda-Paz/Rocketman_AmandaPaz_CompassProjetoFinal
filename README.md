@@ -25,7 +25,7 @@ Segue abaixo os conteudos efetuados juntando todo o conhecimento da trilha <i>ro
  - [Plano de Testes](https://www.canva.com/design/DAFG4qIQMHA/getYBOqNFs1u0kL6zsAYVQ/view?utm_content=DAFG4qIQMHA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
  - [Testes Automatizados](https://github.com/Amanda-Paz/Rocketman_AmandaPaz_CompassProjetoFinal/tree/main/Arquivos%20Postman)
  - [Relatório de Execução](https://github.com/Amanda-Paz/Rocketman_AmandaPaz_CompassProjetoFinal/tree/main/Newman)
- - [Cobertura de Testes](https://github.com/Amanda-Paz/Rocketman_AmandaPaz_CompassProjetoFinal/tree/main/Newman) <i>download</i>
+ - [Cobertura de Testes](https://github.com/Amanda-Paz/Rocketman_AmandaPaz_CompassProjetoFinal/tree/main/Cobertura%20de%20Testes) <i>download</i>
  - [Jira](https://amandapazz.atlassian.net/jira/software/c/projects/SVR/issues) <i>candidatos para automação</i>
  - [Reports](https://github.com/Amanda-Paz/Rocketman_AmandaPaz_CompassProjetoFinal/issues)
 
