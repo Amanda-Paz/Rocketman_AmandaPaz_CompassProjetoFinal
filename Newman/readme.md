@@ -1,3 +1,5 @@
+
+![NPM](https://cdn.discordapp.com/attachments/969607335901298801/1016141198186008586/linha4.png)
 ## NEWMAN
 
 O Newman é uma ferramenta que permite executar os testes do Postman por linha de comando e foi desenvolvido para ser utilizado com ferramentas de integração contínua.
